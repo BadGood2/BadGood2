@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Naseem.<br>💻  About Me<br>🤔   Exploring new technologies and developing software solutions to our worlds tech problems.<br>🛠  Tech Stack<br>🌐  JavaScript Node.js Python Nest.js<br>🛢   MongoDB Postgres<br>⚙️   Git GitHub Markdown<br>🔧   Visual Studio Code
+Hi there 👋, I'm **Naseem** – a passionate **Backend Software Engineer** who loves building **scalable, efficient, and high-performance** systems.  
+
+💻 **About Me:**  
+🔹 **Problem Solver** – I thrive on tackling complex software challenges and optimizing system performance.  
+🔹 **Passionate Learner** – Always exploring new technologies, best practices, and architectural patterns.  
+🔹 **API & Database Enthusiast** – I enjoy designing RESTful APIs, GraphQL services, and optimizing databases for efficiency.  
+🔹 **Cloud & DevOps Explorer** – Experimenting with AWS, Google Cloud, Docker, and Kubernetes to enhance deployment and scalability.  
+
+🔹 **Engineering Mindset** – Writing clean, maintainable, and testable code following best practices in **software design and architecture**.  
+🔹 **Team Player & Open-Source Contributor** – Love collaborating with developers and contributing to the community.  
+
+🛠 **Tech Stack:**  
+✔ Backend Development – **Node.js, TypeScript, Python, Nest.js, Express.js**  
+✔ Databases – **PostgreSQL, MongoDB, Redis, Prisma**  
+✔ DevOps & Cloud – **AWS, Google Cloud, Docker, Kubernetes, Nginx**  
+✔ Tools & Workflow – **Git, GitHub, GitLab CI/CD, VS Code, Postman**  
+
+🌱 **Currently Learning:** **Microservices Architecture, CQRS, Event-Driven Systems**  
+
+⚡ **Fun Fact:** **99% of debugging is just figuring out why your code wasn’t working yesterday.** 😆  
 
 
 ## 🌐 Socials:
